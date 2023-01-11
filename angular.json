@@ -26,9 +26,34 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/font-awesome/css/all.css",
+              "src/assets/font-awesome/css/brands.css",
+              "src/assets/font-awesome/css/duotone.css",
+              "src/assets/font-awesome/css/fontawesome.css",
+              "src/assets/font-awesome/css/light.css",
+              "src/assets/font-awesome/css/regular.css",
+              "src/assets/font-awesome/css/sharp-solid.css",
+              "src/assets/font-awesome/css/solid.css",
+              "src/assets/font-awesome/css/svg-with-js.css",
+              "src/assets/font-awesome/css/thin.css",
+              "src/assets/font-awesome/css/v4-font-face.css",
+              "src/assets/font-awesome/css/v4-shims.css",
+              "src/assets/font-awesome/css/v5-font-face.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/font-awesome/js/all.js",
+              "src/assets/font-awesome/js/brands.js",
+              "src/assets/font-awesome/js/duotone.js",
+              "src/assets/font-awesome/js/conflict-detection.js",
+              "src/assets/font-awesome/js/fontawesome.js",
+              "src/assets/font-awesome/js/light.js",
+              "src/assets/font-awesome/js/regular.js",
+              "src/assets/font-awesome/js/sharp-solid.js",
+              "src/assets/font-awesome/js/solid.js",
+              "src/assets/font-awesome/js/thin.js",
+              "src/assets/font-awesome/js/v4-shims.js"
+            ]
           },
           "configurations": {
             "production": {

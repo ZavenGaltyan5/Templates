@@ -626,5 +626,54 @@ ol, ul {
   color: #fff !important;
   border: 1px solid transparent !important;
 }
+.main-team-div{
+  max-width: 300px;
+}
+@media (max-width: 1200px) {
+  .main-team-div{
+    max-width: 100%;
+  }
+  .team-col{
+    margin-top: 10px;
+    max-width: 550px;
+  }
+  .team-col2{
+    margin-top: 10px;
+    max-width: 550px;
+  }
+}
+@media (max-width: 991px) {
+  .team-col{
+    max-width: 300px;
+    margin: 5px auto;
+  }
+  .team-col2{
+    max-width: 300px;
+    margin: 5px auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+/*Footer*/
+.ad-footer{
+  padding: 3.75rem 0;
+}
+
+
+
+
+
+
+
+
+
+
 
 

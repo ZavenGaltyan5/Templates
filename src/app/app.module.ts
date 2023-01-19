@@ -9,7 +9,7 @@ import { AdAgencyComponent } from './ad-agency/ad-agency.component';
 @NgModule({
   declarations: [
     AppComponent,
-    AdAgencyComponent
+    AdAgencyComponent,
   ],
   imports: [
     BrowserModule,

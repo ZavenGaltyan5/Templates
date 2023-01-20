@@ -52,7 +52,9 @@
               "src/assets/font-awesome/js/sharp-solid.js",
               "src/assets/font-awesome/js/solid.js",
               "src/assets/font-awesome/js/thin.js",
-              "src/assets/font-awesome/js/v4-shims.js"
+              "src/assets/font-awesome/js/v4-shims.js",
+              "src/assets/bootstrap/js/bootstrap.min.js",
+              "src/assets/bootstrap/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {

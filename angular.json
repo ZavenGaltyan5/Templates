@@ -39,6 +39,9 @@
               "src/assets/font-awesome/css/v4-font-face.css",
               "src/assets/font-awesome/css/v4-shims.css",
               "src/assets/font-awesome/css/v5-font-face.css",
+              "node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css",
+              "node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css",
+              "node_modules/animate.css/animate.min.css",
               "src/styles.css"
             ],
             "scripts": [
